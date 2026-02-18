@@ -28,19 +28,19 @@ My focus is on backend development, system integration, and creating scalable ap
 
 ## 🚀 Featured Projects
 
-### Bora i Fi – Marketplace de Serviços
+### Bora i Fi – Services Marketplace
 
-Plataforma que conecta **tomadores** e **prestadores** para contratação de serviços. **Laravel 12** e **PHP 8.2**.
+Marketplace connecting **clients** and **service providers**. Laravel 12 / PHP 8.2.
 
-- Auth (cadastro, login, recuperação de senha, verificação de e-mail)
-- Perfis: Tomador e Prestador com dashboards separados
-- Busca por categoria, tipo, estado e cidade (URLs amigáveis)
-- **Chat em tempo real** (Laravel Reverb / WebSockets)
-- Fluxo: interesse → aceitar/rejeitar → concluir/cancelar + **avaliações** mútuas
-- Admin: usuários, categorias, tipos, termos e política; páginas institucionais
-- SEO: sitemap, Schema.org, Open Graph, Twitter Card
+- Full authentication
+- Profiles with separate dashboards
+- Search by category and location (friendly URLs)
+- Real-time chat (Reverb / WebSockets)
+- Hiring workflow + reviews
+- Admin panel
+- SEO (sitemap, Schema.org, OG)
 
-**Stack:** PHP 8.2 · Laravel 12 · Laravel Reverb · MySQL · jQuery · Bootstrap 5 · Blade
+**Stack:** PHP 8.2 · Laravel 12 · Reverb · MySQL · jQuery · Bootstrap 5 · Blade
 
 ---
 
