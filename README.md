@@ -30,18 +30,19 @@ My focus is on backend development, system integration, and creating scalable ap
 
 ### Dona Têra – Artisan Chocolate E-commerce
 
-Digital platform for the **Dona Têra** artisan confectionery: online menu, PagBank payments, custom event orders, gift cards, and café reservations. Laravel 12 / PHP 8.2.
+Digital platform for **Dona Têra**, an artisan chocolate and confectionery brand, featuring an online catalog, PagBank payments, custom event orders, gift cards, and café reservations. Built with Laravel 12 and PHP 8.2.
 
-- Customer auth + profile management
-- Category-based menu with friendly URLs and seasonal campaigns
-- Shopping cart (delivery / pickup) + discount coupons
-- Online payment via PagBank (PIX, card, boleto)
-- Custom event orders with admin workflow and payment links
-- Gift cards with unique codes (email / WhatsApp)
-- Café reservations with capacity control
-- Full admin panel + PDF menu generation
+* Customer authentication and profile management
+* Category-based catalog with SEO-friendly URLs and seasonal campaigns
+* Shopping cart (delivery or pickup) with discount coupon support
+* Online payments via PagBank (PIX, credit card, and boleto)
+* Custom event orders with administrative workflow and payment links
+* Gift cards with unique codes delivered via email or WhatsApp
+* Café reservations with capacity management
+* Complete admin panel and PDF catalog generation
 
 **Stack:** PHP 8.2 · Laravel 12 · PagBank · MySQL · DomPDF · jQuery · Bootstrap 5 · Blade
+
 
 ---
 
