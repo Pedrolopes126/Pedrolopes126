@@ -28,19 +28,20 @@ My focus is on backend development, system integration, and creating scalable ap
 
 ## 🚀 Featured Projects
 
-### Bora i Fi – Services Marketplace
+### Dona Têra – Artisan Chocolate E-commerce
 
-Marketplace connecting **clients** and **service providers**. Laravel 12 / PHP 8.2.
+Digital platform for the **Dona Têra** artisan confectionery: online menu, PagBank payments, custom event orders, gift cards, and café reservations. Laravel 12 / PHP 8.2.
 
-- Full authentication
-- Profiles with separate dashboards
-- Search by category and location (friendly URLs)
-- Real-time chat (Reverb / WebSockets)
-- Hiring workflow + reviews
-- Admin panel
-- SEO (sitemap, Schema.org, OG)
+- Customer auth + profile management
+- Category-based menu with friendly URLs and seasonal campaigns
+- Shopping cart (delivery / pickup) + discount coupons
+- Online payment via PagBank (PIX, card, boleto)
+- Custom event orders with admin workflow and payment links
+- Gift cards with unique codes (email / WhatsApp)
+- Café reservations with capacity control
+- Full admin panel + PDF menu generation
 
-**Stack:** PHP 8.2 · Laravel 12 · Reverb · MySQL · jQuery · Bootstrap 5 · Blade
+**Stack:** PHP 8.2 · Laravel 12 · PagBank · MySQL · DomPDF · jQuery · Bootstrap 5 · Blade
 
 ---
 
