@@ -1,16 +1,16 @@
 # Hello, I'm Pedro Lopes 👋
 
-I'm a PHP/Laravel developer passionate about technology and innovation. 🚀
+I'm a PHP/Laravel developer passionate about technology and innovation.
 
-- 🌱 Currently learning PHP, Laravel, jQuery, and MySQL  
+- 🌱 Currently working with PHP, Laravel, jQuery, and MySQL
 - 💼 Working at [**Myhelp**](https://agenciamyhelp.com.br/)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I enjoy solving real-world problems with clean and efficient code.  
-My focus is on backend development, system integration, and creating scalable applications using the Laravel framework.
+I enjoy solving real-world problems with clean and efficient code.
+My focus is on backend development, system integration, and building websites and scalable applications using Laravel.
 
 ---
 
@@ -28,27 +28,20 @@ My focus is on backend development, system integration, and creating scalable ap
 
 ## 🚀 Featured Projects
 
-### Dona Têra – Artisan Chocolate E-commerce
+### [Exclusiva Pinturas](https://exclusivapinturas.com.br/)
 
-Digital platform for **Dona Têra**, an artisan chocolate and confectionery brand, featuring an online catalog, PagBank payments, custom event orders, gift cards, and café reservations. Built with Laravel 12 and PHP 8.2.
+Institutional website for a high-end painting company operating in Rio Grande do Sul and Santa Catarina, focused on showcasing services, portfolio, and generating quote requests.
 
-* Customer authentication and profile management
-* Category-based catalog with SEO-friendly URLs and seasonal campaigns
-* Shopping cart (delivery or pickup) with discount coupon support
-* Online payments via PagBank (PIX, credit card, and boleto)
-* Custom event orders with administrative workflow and payment links
-* Gift cards with unique codes delivered via email or WhatsApp
-* Café reservations with capacity management
-* Complete admin panel and PDF catalog generation
+**Stack:** PHP · Laravel · JavaScript · jQuery · MySQL · Bootstrap
 
-**Stack:** PHP 8.2 · Laravel 12 · PagBank · MySQL · DomPDF · jQuery · Bootstrap 5 · Blade
+### Other Projects
 
+Websites, administrative systems, e-commerce platforms, API integrations, and custom solutions developed for different businesses.
 
 ---
 
 ## 📬 Contact
 
-If you'd like to collaborate or just say hello:  
-**✉️ Email:** pedrohtorreslopes@gmail.com
+If you'd like to collaborate or just say hello:
 
----
+**✉️ Email:** pedrohtorreslopes@gmail.com
